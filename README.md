@@ -1,4 +1,4 @@
-<H1>👋 Hello</H1>
+<H1>Hello</H1>
 
 <H3 style="text-align:center">👀 About Me</H3>
 
