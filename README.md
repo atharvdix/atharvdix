@@ -5,7 +5,7 @@
 My name is Atharv aka @atharvdix aka Atharv Dixit, a new graduate from George Mason University.
 <p>
 <b>#opentowork</b><br>
-Data Analysis, Data Scientist, Big Data Analytics, Machine Learning Engineer and Software Developer careers
+Data Analysis, Data Scientist, Big Data Analytics, Machine Learning Engineer and Software Engineer careers
 </p>
 
 - 💞️ Will be glad to collaborate in Machine Learning or Deep Learning projects.
