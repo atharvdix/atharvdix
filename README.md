@@ -13,9 +13,7 @@ Data Analysis, Data Scientist, Big Data Analytics, Machine Learning Engineer and
 
 <H3 style="text-align:center">📫 Want to reach me:</H3>
 
-- Shoot an email at: atharv@atharvdix.com
 - Join me on LinkedIn: [AtharvD](www.linkedin.com/in/atharv-dixit/)
-- Interested to know me more? Take a look at my [website](https://atharvdix.com/).
 
 <!---
 atharvdix/atharvdix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
